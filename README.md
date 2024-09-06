@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# Мой шаблон для работы nvim на базе LazyNvim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Пока что тут просто будет рыба текст
